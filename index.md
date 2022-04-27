@@ -1,6 +1,4 @@
-<p align="center">General Licences!</p>
-
-## The Wonderful World of Licensing
+<p align="center">Hello There, General Licences!</p>
 
 This is a free page of random tips and tricks from my time working in licensing (and to teach me how to make a wesbite!). 
 Please always do your own research too, and be sure to check with your local licensing authority for the most up to date information. They know best!
