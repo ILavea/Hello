@@ -3,7 +3,7 @@
 This is a free page of random tips and tricks from my time working in licensing (and to teach me how to make a wesbite!). 
 Please always do your own research too, and be sure to check with your local licensing authority for the most up to date information. They know best!
 
-<h2 align="center">TENs, Premise Licences and Club Premise Licences,  
+<h2 align="center">TENs, Premise Licences and Club Premise Licences,<br/>
 Oh My!</h2>
 
 It's largely all about scale and frequency. 
