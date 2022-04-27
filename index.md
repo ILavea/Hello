@@ -17,8 +17,10 @@ Then there will be overlap where it is down to your judgement which is best for 
 
 e.g. Your PTA does 5 events per year. Depending on your council's fees, the cost of 5 TENs may well equal the cost of a premise licence. A premise licence is more complicated to get, but once you have it no more applications! Just bear in mind it does come with an annual fee.
 
+For some example fees [click here](https://www.colchester.gov.uk/licensing/fees/?id=&page=premises--and--club--premises--licence--fees)
+
 ### TENs
 
 The number one reason for a TEN to be rejected is it's submitted too late. Your council ideally need 10 clear working days, not including the day of the event, or the day you apply, to process your application. This is so they have time to consult with people, such as the police, the fire depertment or the environmental protection team, to ensure your event is safe, secure, and friendly to your neighbours.
 
-### TENs 
+
