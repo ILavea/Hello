@@ -11,6 +11,8 @@ It's largely all about scale and frequency.
 - Large scale or more frequent business, will be a premise licence. e.g. A pub.
 - Community organisations or clubs, open only to their own members and not the general public, will be a Club Premise. e.g. A rotary club.
 
+Then there will be overlap where it is down to your judgement which is best for you in terms of time and effort, and whether you are likely to have objections from your community.
+
 ```markdown
 Syntax highlighted code block
 
