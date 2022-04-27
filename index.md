@@ -20,7 +20,7 @@ For some example fees [click here](https://www.colchester.gov.uk/licensing/fees/
 
 ### TENs
 
-The number one reason for a TEN to be rejected is it's submitted too late. Your council ideally need 10 clear working days, not including the day of the event, or the day you apply, to process your application. This is so they have time to consult with people, such as the police, the fire depertment or the environmental protection team, to ensure your event is safe, secure, and friendly to your neighbours.
+The number one reason for a TEN to be rejected is it's submitted too late. Your council ideally need 10 clear working days, not including the day of the event, or the day you apply, to process your application. This is so they have time to consult with people, such as the police, the fire department or the environmental protection team, to ensure your event is safe, secure, and friendly to your neighbours.
 
 Here's a pretty picture.
 ![](sebastian-navarro-BmaUjTWMXQ4-unsplash.jpg)
