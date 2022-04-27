@@ -15,7 +15,7 @@ It's largely all about scale and frequency.
 
 Then there will be overlap where it is down to your judgement which is best for you in terms of time and effort, and whether you are likely to have objections from your community.
 
-e.g. Your PTA does 5 events per year. Depending on your council's fees, the cost of 5 TENs may well equal the cost of a premise licence. A premise licence is more complicated to get, but once you have it no more applications! Just bear in mind it does come with an annual fee...
+e.g. Your PTA does 5 events per year. Depending on your council's fees, the cost of 5 TENs may well equal the cost of a premise licence. A premise licence is more complicated to get, but once you have it no more applications! Just bear in mind it does come with an annual fee.
 
 ```markdown
 Syntax highlighted code block
